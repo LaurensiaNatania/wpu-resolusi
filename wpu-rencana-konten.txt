@@ -2,6 +2,7 @@ RENCANA KONTEN WPU
 
 - Javascript
  *apa aja dah bro
+ *kamu sedang apa
 -Struktur Data Dasar
 - PHP Framework
 - Interview
