@@ -1,0 +1,7 @@
+RENCANA KONTEN WPU
+
+- Javascript
+ *apa aja dah bro
+- PHP Framework
+- Interview
+- Vlogs
